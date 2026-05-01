@@ -26,11 +26,7 @@ More details about UNROM512 format and compatibility:
 
 **Mirroring must match the ROM you are programming.** The game expects a specific mode (vertical/horizontal/1-screen). A wrong setting causes visual glitches.
 
-Possible jumper states:
-
-- **Vertical mirroring:** `VERTICAL` closed, `HORIZONTAL` and `ONE` open.
-- **Horizontal mirroring:** `HORIZONTAL` closed, `VERTICAL` and `ONE` open.
-- **1-screen mirroring (mapper-controlled):** `ONE` closed, `VERTICAL` and `HORIZONTAL` open.
+Only one of these jumpers should be closed. For **Vertical mirroring**, close `VERTICAL` and keep `HORIZONTAL` and `ONE` open.
 
 ---
 
@@ -40,9 +36,9 @@ Possible jumper states:
 
 | Size | `CHR RAM 8k` | `CHR RAM 8k/16k` | `CHR RAM 16k/32k` | `CHR RAM 32k` |
 | :--- | :---: | :---: | :---: | :---: |
-| 8 KiB | Closed | Closed | Closed | Open |
-| 16 KiB | Closed | Closed | Open | Open |
-| 32 KiB | Open | Closed | Closed | Open |
+| 8 KiB | Closed | Closed | Open | Open |
+| 16 KiB | Open | Closed | Closed | Open |
+| 32 KiB | Open | Open | Closed | Closed |
 
 > **Use smaller CHR RAM sizes (8/16 KiB) only if the target ROM explicitly supports them.** Most UNROM512 / Mapper 30 software expects 32 KiB. Forcing a smaller size on unsupported ROMs can cause errors.
 
