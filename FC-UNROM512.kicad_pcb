@@ -183,7 +183,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -195,7 +195,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -207,8 +207,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/74822f44-f619-46da-82ac-0c38f81ed134")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.77 1.07)
@@ -346,7 +348,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -358,7 +360,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -382,8 +384,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/2d89bea4-06f0-4ede-ba60-6bd136566ab7")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -527,7 +531,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -539,7 +543,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -563,8 +567,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/ca34c4fb-2c39-41fb-ab17-a393f50548f4")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -706,7 +712,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -718,7 +724,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -730,8 +736,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/886b0e3c-6d97-4fb1-bf07-24362aff6e04")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.77 1.07)
@@ -869,7 +877,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -881,7 +889,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -905,8 +913,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/a5fd5f42-d269-4bc2-949f-964edeecc073")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -1049,7 +1059,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1061,7 +1071,7 @@
 				)
 			)
 		)
-		(property "Description" "Dual Decoder 1 of 4, Active low outputs"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1073,8 +1083,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "DIP?16*")
 		(path "/913e7b1f-4457-434a-9581-41cffe69f5d7")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.46 -1.33)
@@ -1429,7 +1441,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1441,7 +1453,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1465,8 +1477,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/ff34d19b-3a5b-4c33-bc20-f9bea92b5d5e")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -1610,7 +1624,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1622,7 +1636,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1646,8 +1660,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/a765dacd-1d03-4e3a-96ac-5bdb383b0c94")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -1790,7 +1806,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS377"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1802,7 +1818,7 @@
 				)
 			)
 		)
-		(property "Description" "8-bit Register"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1814,8 +1830,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "DIP?20*")
 		(path "/b946ef45-a2c7-4b09-b9f6-25fe3cb8b31c")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.46 -1.33)
@@ -2214,7 +2232,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2226,7 +2244,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2250,8 +2268,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/441e7e1d-d479-4310-afaf-89f94349ecf0")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -2393,7 +2413,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -2405,7 +2425,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -2417,8 +2437,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/3dff966c-7005-4e87-a0fa-c9d24dff6197")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.77 1.07)
@@ -2554,7 +2576,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -2566,7 +2588,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -2578,8 +2600,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/7d254407-75f9-4fa4-b7d6-04dd0b3c9c6f")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.77 1.07)
@@ -2717,7 +2741,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2729,7 +2753,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2753,8 +2777,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/e01d68df-2ec1-45e1-abb8-349221467f74")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -2898,7 +2924,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2910,7 +2936,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2934,8 +2960,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/113adcdd-3e89-4e43-bdb8-82db4eda8e0f")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -3078,7 +3106,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3090,7 +3118,7 @@
 				)
 			)
 		)
-		(property "Description" "Quad 2-input OR"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3102,8 +3130,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "DIP?14*")
 		(path "/a09790c7-b23a-4e63-8d68-40525a41bd55")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.46 -1.33)
@@ -3423,7 +3453,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3435,7 +3465,7 @@
 				)
 			)
 		)
-		(property "Description" "Quad 2-input OR"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3447,8 +3477,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "DIP?14*")
 		(path "/e5de3bba-ecea-427b-a3f7-8da1585b3353")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.46 -1.33)
@@ -3767,7 +3799,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -3779,7 +3811,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -3791,8 +3823,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/e1305792-9118-4da5-a97e-f8083177e344")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.77 1.07)
@@ -3930,7 +3964,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3942,7 +3976,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3966,8 +4000,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/f2751d6f-820f-4256-aade-5ff65fe96a4b")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -4109,7 +4145,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/25022B.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4121,7 +4157,7 @@
 				)
 			)
 		)
-		(property "Description" "Silicon Storage Technology (SSF) 512k x 8 Flash ROM"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4134,7 +4170,8 @@
 			)
 		)
 		(path "/fb8c930d-b7d0-4851-9668-da9790e442ee")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 14.08 -1.33)
@@ -4686,7 +4723,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.futurlec.com/Datasheet/Memory/62256.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4698,7 +4735,7 @@
 				)
 			)
 		)
-		(property "Description" "32Kx8 bit Low Power CMOS Static RAM, 55/70ns, DIP-28"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4710,8 +4747,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "DIP*W15.24mm*")
 		(path "/2218075c-11cf-4923-91e1-b7e035e82e79")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 14.08 -1.33)
@@ -5935,7 +5974,8 @@
 			)
 		)
 		(path "/a412cb46-21b6-4de8-b558-6c927f4570fc")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(attr exclude_from_bom)
 		(pad "1" smd rect
 			(at 1.27 0)
@@ -6509,7 +6549,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6521,7 +6561,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6545,8 +6585,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/b115801d-b46e-4cde-90b7-7de667546db4")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -6690,7 +6732,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6702,7 +6744,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6726,8 +6768,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/e8f9c190-dbb1-403a-be17-817f5df2becb")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
@@ -6871,7 +6915,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6883,7 +6927,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6907,8 +6951,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/a80b4f4a-d743-4c4f-87ee-21e0a7e0d79d")
-		(sheetfile "FC-UNROM512 v0.9.kicad_sch")
+		(sheetname "/")
+		(sheetfile "FC-UNROM512.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
