@@ -1,0 +1,22 @@
+# KiCad lock files
+*.kicad_sch.lck
+*.kicad_pcb.lck
+
+# KiCad local/cache files
+*.kicad_prl
+fp-info-cache
+*.bak
+*.tmp
+*.temp
+*.cache
+*-backups/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+fp-lib-table
+sym-lib-table
+production/
